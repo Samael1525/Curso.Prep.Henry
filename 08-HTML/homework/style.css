@@ -1,3 +1,26 @@
+body{
+    background-image: url(https://www.cardamomo.news/__export/1610560169066/sites/debate/img/2021/01/13/8_comidas_deliciosas_y_bajas_en_grasas_para_perder_peso_crop1610560087396.jpeg_554688468.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-position: fixed;
+    min-height: 100vh;
+
+    
+    height: 200px;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+
+}
+.divClass{
+    margin: 0 auto;
+    width: 800px;
+}
+
 h1{
     color: #6b2222;
 }
